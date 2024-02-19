@@ -1,0 +1,64 @@
+{
+    "data": {
+        "id": "chatcmpl-8u0Yy3VFNXWAdWWLBcbrhCpLycuuW",
+        "object": "chat.completion",
+        "created": 1708359224.0,
+        "model": "gpt-4",
+        "prompt_filter_results": [
+            {
+                "prompt_index": 0.0,
+                "content_filter_results": {
+                    "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                    }
+                }
+            }
+        ],
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0.0,
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"Categoria\": \"Medio\",\n  \"Explicacion\": \"En la fotograf\u00eda se observa que el inmueble es una estructura industrial, posiblemente de acero y concreto, lo que reduce el riesgo de incendio en comparaci\u00f3n con una edificaci\u00f3n de madera. No se pueden identificar claramente las protecciones contra incendio, pero no se observan rociadores autom\u00e1ticos o extintores a la vista, lo que sugiere que las protecciones son parciales o insuficientes. Adem\u00e1s, aunque hay un espacio considerable entre la zona de almacenamiento y el techo, la organizaci\u00f3n y demarcaci\u00f3n de la zona de almacenamiento no es clara, lo que podr\u00eda dificultar la contenci\u00f3n de un incendio en caso de que ocurra.\"\n}"
+                },
+                "content_filter_results": {
+                    "hate": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "self_harm": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "sexual": {
+                        "filtered": false,
+                        "severity": "safe"
+                    },
+                    "violence": {
+                        "filtered": false,
+                        "severity": "safe"
+                    }
+                }
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 587.0,
+            "completion_tokens": 177.0,
+            "total_tokens": 764.0
+        }
+    }
+}
