@@ -1,0 +1,17 @@
+{
+    "riesgo_electrico": {
+        "retie": null,
+        "cableado": null,
+        "proteccion": null,
+        "Aterramiento": null,
+        "justificacion": null
+    },
+    "riesgo_incendio": {
+        "sistemas_deteccion": 1,
+        "materiales_construccion": 0,
+        "almacenamiento": 1,
+        "orden": 0,
+        "material_mercancia": 1,
+        "justificacion": "No se observan sistemas de detecci\u00f3n o supresi\u00f3n de incendios en la fotograf\u00eda proporcionada. El almacenamiento de mercanc\u00eda llega hasta el techo, lo que no permite un adecuado espacio para evitar la propagaci\u00f3n de un incendio. Aunque la zona parece ordenada, el material almacenado incluye neum\u00e1ticos y posiblemente l\u00edquidos inflamables, los cuales son de f\u00e1cil combusti\u00f3n y pueden considerarse como una fuente de ignici\u00f3n latente."
+    }
+}

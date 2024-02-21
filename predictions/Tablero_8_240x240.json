@@ -1,0 +1,15 @@
+{
+    "riesgo_electrico": {
+        "retie": "0",
+        "cableado": "0",
+        "proteccion": "0",
+        "Aterramiento": "0"
+    },
+    "riesgo_incendio": {
+        "sistemas_deteccion": null,
+        "materiales_construccion": null,
+        "almacenamiento": null,
+        "orden": null,
+        "material_mercancia": null
+    }
+}

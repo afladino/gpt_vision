@@ -1,0 +1,17 @@
+{
+    "riesgo_electrico": {
+        "retie": 1,
+        "cableado": 1,
+        "proteccion": 1,
+        "Aterramiento": 1,
+        "justificacion": "El tablero el\u00e9ctrico muestra cables expuestos y quemados, lo que indica un deterioro f\u00edsico y falta de mantenimiento, no se observan dispositivos de protecci\u00f3n contra sobrecargas y cortocircuitos, y no se evidencia un sistema de aterramiento adecuado."
+    },
+    "riesgo_incendio": {
+        "sistemas_deteccion": 1,
+        "materiales_construccion": 0,
+        "almacenamiento": 0,
+        "orden": 0,
+        "material_mercancia": 0,
+        "justificacion": "No se observan sistemas de detecci\u00f3n o supresi\u00f3n de incendios en la zona de almacenamiento/exhibici\u00f3n. Los materiales de construcci\u00f3n, el almacenamiento, el orden y el material de la mercanc\u00eda no parecen representar un riesgo de incendio inmediato."
+    }
+}

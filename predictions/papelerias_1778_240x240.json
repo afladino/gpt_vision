@@ -1,0 +1,17 @@
+{
+    "riesgo_electrico": {
+        "retie": "0",
+        "cableado": "0",
+        "proteccion": "0",
+        "Aterramiento": "0",
+        "justificacion": "El tablero el\u00e9ctrico parece estar en buen estado, con todos los cables correctamente aislados y organizados. Se observan dispositivos de protecci\u00f3n como interruptores y fusibles, y hay se\u00f1alizaci\u00f3n de alta tensi\u00f3n que sugiere conocimiento de las normas de seguridad. No hay evidencia visible de falta de aterramiento."
+    },
+    "riesgo_incendio": {
+        "sistemas_deteccion": "1",
+        "materiales_construccion": "0",
+        "almacenamiento": "1",
+        "orden": "0",
+        "material_mercancia": "1",
+        "justificacion": "No se observan sistemas de detecci\u00f3n o supresi\u00f3n de incendios en la imagen. Aunque los materiales de construcci\u00f3n no son visibles, el almacenamiento llega hasta el techo, lo que puede dificultar la acci\u00f3n de sistemas de rociadores en caso de incendio. La mercanc\u00eda almacenada parece ser de papel, un material de f\u00e1cil combusti\u00f3n."
+    }
+}

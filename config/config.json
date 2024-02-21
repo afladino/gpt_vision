@@ -1,0 +1,32 @@
+{
+    "dev": {
+      "endpoint": "https://fz73xehwah.execute-api.us-east-1.amazonaws.com/dev/modelos_ia/api/v1/providers",
+      "headers": {
+        "channel": "cc",
+        "invoke-date": "2023-11-22T15:30:00",
+        "enviroment_channel": "DEV",
+        "x-api-key": "hYLeN3f3L82V6JzGeDmZw2AmW5XS2UOF6YXakKZp",
+        "Content-Type": "application/json"
+    }
+    },
+    "stage": {
+      "endpoint": "",
+      "headers": {
+        "channel": "",
+        "invoke-date": "",
+        "enviroment_channel": "",
+        "x-api-key": "",
+        "Content-Type": ""
+    }
+    },
+    "master": {
+      "endpoint": "",
+      "headers": {
+        "channel": "",
+        "invoke-date": "",
+        "enviroment_channel": "",
+        "x-api-key": "",
+        "Content-Type": ""
+    }
+}
+}

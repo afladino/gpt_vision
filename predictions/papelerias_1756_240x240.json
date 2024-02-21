@@ -1,0 +1,17 @@
+{
+    "riesgo_electrico": {
+        "retie": 1,
+        "cableado": 1,
+        "proteccion": 1,
+        "Aterramiento": 1,
+        "justificacion": "El tablero el\u00e9ctrico muestra un deterioro f\u00edsico evidente y no parece cumplir con la normatividad t\u00e9cnica RETIE. Los cables est\u00e1n expuestos y algunos parecen quemados, lo que indica un riesgo de corto circuito. No se observan dispositivos de protecci\u00f3n contra sobrecargas y cortocircuitos, y tampoco se evidencia un sistema de aterramiento adecuado."
+    },
+    "riesgo_incendio": {
+        "sistemas_deteccion": null,
+        "materiales_construccion": null,
+        "almacenamiento": null,
+        "orden": null,
+        "material_mercancia": null,
+        "justificacion": null
+    }
+}
