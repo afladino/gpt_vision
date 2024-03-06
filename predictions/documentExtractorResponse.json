@@ -1,8 +1,8 @@
 {
     "data": {
-        "id": "chatcmpl-8xGwLnHWdAl0fhyF6k3IdNo3VNbSm",
+        "id": "chatcmpl-8xcBEYvS81RCFkS4jB9SKHvW8TIXR",
         "object": "chat.completion",
-        "created": 1709137161.0,
+        "created": 1709218808.0,
         "model": "gpt-4",
         "prompt_filter_results": [
             {
@@ -33,7 +33,7 @@
                 "index": 0.0,
                 "message": {
                     "role": "assistant",
-                    "content": "{\"riesgo_electrico\":{\"retie\":0,\"cableado\":0,\"proteccion\":0,\"Aterramiento\":0,\"justificacion\":\"La fotograf\u00eda muestra un tablero el\u00e9ctrico que parece estar en buen estado, con los cables organizados y protegidos. No se observan cables expuestos o defectuosos, y parece haber sistemas de protecci\u00f3n contra sobrecargas y cortocircuitos. Adem\u00e1s, se puede ver la etiqueta de 'Alta Tensi\u00f3n' lo que indica que hay un manejo adecuado y consciente de los riesgos el\u00e9ctricos. No se puede confirmar la presencia de un sistema de aterramiento, pero no hay evidencia visible de su ausencia.\"},\"riesgo_incendio\":{\"sistemas_deteccion\":null,\"materiales_construccion\":null,\"almacenamiento\":null,\"orden\":null,\"material_mercancia\":null,\"justificacion\":null}}"
+                    "content": "{\n  \"2022\": {\n    \"activo_corriente\": 55251847000,\n    \"activo_no_corriente\": 19455950000,\n    \"total_pasivos\": 54882581000,\n    \"patrimonio\": 19825216000,\n    \"total_pasivo_patrimonio\": 74707970000\n  },\n  \"2021\": {\n    \"activo_corriente\": 47207151000,\n    \"activo_no_corriente\": 22325249000,\n    \"total_pasivos\": 43872994000,\n    \"patrimonio\": 25724946000,\n    \"total_pasivo_patrimonio\": 69532400000\n  }\n}"
                 },
                 "content_filter_results": {
                     "hate": {
@@ -56,9 +56,9 @@
             }
         ],
         "usage": {
-            "prompt_tokens": 1439.0,
-            "completion_tokens": 205.0,
-            "total_tokens": 1644.0
+            "prompt_tokens": 905.0,
+            "completion_tokens": 150.0,
+            "total_tokens": 1055.0
         }
     }
 }

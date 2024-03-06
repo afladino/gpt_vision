@@ -1,0 +1,14 @@
+{
+    "111": {
+        "message": "La respuesta del API no fue exitosa. Por favor, verifica la solicitud",
+        "description": "Ocurri\u00f3 un error en el procesamiento de la solicitud",
+        "category": "TECNICO",
+        "path": "/modelos_ia/api/v1/providers",
+        "errors": [
+            {
+                "component": "ProviderQueryServiceImpl.java",
+                "description": "{\"error\":{\"code\":\"429\",\"message\": \"Requests to the ChatCompletions_Create Operation under Azure OpenAI API version 2023-07-01-preview have exceeded token rate limit of your current OpenAI S0 pricing tier. Please retry after 23 seconds. Please go here: https://aka.ms/oai/quotaincrease if you would like to further increase the default rate limit.\"}}"
+            }
+        ]
+    }
+}

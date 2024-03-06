@@ -1,8 +1,8 @@
 {
     "data": {
-        "id": "chatcmpl-8xGwLnHWdAl0fhyF6k3IdNo3VNbSm",
+        "id": "chatcmpl-8z8NoCXqAyh0eZocsOwiSwfbGLjQw",
         "object": "chat.completion",
-        "created": 1709137161.0,
+        "created": 1709580924.0,
         "model": "gpt-4",
         "prompt_filter_results": [
             {
@@ -33,7 +33,7 @@
                 "index": 0.0,
                 "message": {
                     "role": "assistant",
-                    "content": "{\"riesgo_electrico\":{\"retie\":0,\"cableado\":0,\"proteccion\":0,\"Aterramiento\":0,\"justificacion\":\"La fotograf\u00eda muestra un tablero el\u00e9ctrico que parece estar en buen estado, con los cables organizados y protegidos. No se observan cables expuestos o defectuosos, y parece haber sistemas de protecci\u00f3n contra sobrecargas y cortocircuitos. Adem\u00e1s, se puede ver la etiqueta de 'Alta Tensi\u00f3n' lo que indica que hay un manejo adecuado y consciente de los riesgos el\u00e9ctricos. No se puede confirmar la presencia de un sistema de aterramiento, pero no hay evidencia visible de su ausencia.\"},\"riesgo_incendio\":{\"sistemas_deteccion\":null,\"materiales_construccion\":null,\"almacenamiento\":null,\"orden\":null,\"material_mercancia\":null,\"justificacion\":null}}"
+                    "content": "{\"riesgo_electrico\":{\"retie\":0,\"cableado\":0,\"proteccion\":0,\"aterramiento\":0,\"exposicion\":null,\"justificacion\":\"El tablero el\u00e9ctrico se observa en buen estado, con todos los componentes necesarios y sin evidencia de deterioro f\u00edsico. Se aprecian sistemas de protecci\u00f3n contra sobrecargas y cortocircuitos, as\u00ed como la presencia de cables a un polo a tierra, cumpliendo con la normatividad t\u00e9cnica RETIE.\"},\"riesgo_incendio\":{\"sistemas_deteccion\":1,\"materiales_construccion\":0,\"almacenamiento\":0,\"orden\":0,\"Luminosidad\":null,\"Porosidad\":null,\"material_mercancia\":0,\"justificacion\":\"No se observan sistemas de detecci\u00f3n o supresi\u00f3n de incendios en la zona de trabajo. Los materiales de construcci\u00f3n del edificio no parecen ser altamente inflamables. Hay espacio suficiente entre el tope m\u00e1ximo de almacenamiento y el techo, la zona est\u00e1 ordenada y el material almacenado no parece ser de f\u00e1cil combusti\u00f3n.\"}}"
                 },
                 "content_filter_results": {
                     "hate": {
@@ -56,9 +56,9 @@
             }
         ],
         "usage": {
-            "prompt_tokens": 1439.0,
-            "completion_tokens": 205.0,
-            "total_tokens": 1644.0
+            "prompt_tokens": 1748.0,
+            "completion_tokens": 250.0,
+            "total_tokens": 1998.0
         }
     }
 }

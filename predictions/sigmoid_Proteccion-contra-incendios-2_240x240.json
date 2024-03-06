@@ -1,0 +1,19 @@
+{
+    "1": {
+        "riesgo_electrico": {
+            "retie": 0.1,
+            "cableado": 0.1,
+            "proteccion": 0.1,
+            "Aterramiento": 0.1,
+            "justificacion": "El tablero el\u00e9ctrico parece estar en buen estado, con los cables organizados y protegidos. Se observan dispositivos de protecci\u00f3n como interruptores y fusibles, y aunque no se ve expl\u00edcitamente un sistema de aterramiento, la organizaci\u00f3n y el mantenimiento sugieren que probablemente est\u00e9 presente."
+        },
+        "riesgo_incendio": {
+            "sistemas_deteccion": 0.1,
+            "materiales_construccion": 0.2,
+            "almacenamiento": 0.1,
+            "orden": 0.1,
+            "material_mercancia": 0.2,
+            "justificacion": "Se observan extintores de incendios en la pared, lo que indica la presencia de sistemas de supresi\u00f3n. Los materiales de construcci\u00f3n parecen ser de concreto, que no es altamente inflamable. Hay espacio suficiente entre el almacenamiento y el techo, y la zona parece ordenada. Aunque no se puede determinar con certeza el material de la mercanc\u00eda, la presencia de cajas sugiere que podr\u00eda haber material combustible, pero no necesariamente de f\u00e1cil ignici\u00f3n."
+        }
+    }
+}

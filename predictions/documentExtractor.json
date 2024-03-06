@@ -1,0 +1,16 @@
+{
+    "2022": {
+        "activo_corriente": 55251847000,
+        "activo_no_corriente": 19455950000,
+        "total_pasivos": 54882581000,
+        "patrimonio": 19825216000,
+        "total_pasivo_patrimonio": 74707970000
+    },
+    "2021": {
+        "activo_corriente": 47207151000,
+        "activo_no_corriente": 22325249000,
+        "total_pasivos": 43872994000,
+        "patrimonio": 25724946000,
+        "total_pasivo_patrimonio": 69532400000
+    }
+}

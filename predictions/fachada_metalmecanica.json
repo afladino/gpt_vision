@@ -1,0 +1,23 @@
+{
+    "AAA": {
+        "riesgo_electrico": {
+            "retie": 0,
+            "cableado": 0,
+            "proteccion": 0,
+            "aterramiento": 0,
+            "exposicion": null,
+            "justificacion": "La fotograf\u00eda del tablero el\u00e9ctrico muestra un sistema organizado y etiquetado, sin cables expuestos o deteriorados, con dispositivos de protecci\u00f3n contra sobrecargas y cortocircuitos, y se observa un sistema de aterramiento adecuado."
+        },
+        "riesgo_incendio": {
+            "sistemas_deteccion": null,
+            "materiales_construccion": null,
+            "almacenamiento": null,
+            "orden": null,
+            "Luminosidad": null,
+            "Porosidad": null,
+            "material_mercancia": null,
+            "justificacion": "Imagen no valida"
+        },
+        "status_code": 200
+    }
+}
